@@ -1,0 +1,30 @@
+{
+  "name": "debug-extended",
+  "version": "0.1.0",
+  "description": "extend debug lib with verbosity levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsinisa/debug-extended.git"
+  },
+  "keywords": [
+    "debug",
+    "verbose",
+    "info",
+    "log"
+  ],
+  "author": "Dr. Sinisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsinisa/debug-extended/issues"
+  },
+  "homepage": "https://github.com/dsinisa/debug-extended#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "console-stamp": "^0.2.9",
+    "debug": "^4.1.1"
+  }
+}
